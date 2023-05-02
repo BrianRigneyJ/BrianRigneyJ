@@ -1,3 +1,6 @@
 Hello, I'm Brian Rigney. I'm interested in data analysis, programming, and computer science.
 
 Check out my [LinkedIn](https://www.linkedin.com/in/brian-rigney-79416489/).
+
+[Sample DB build and queries in MySQL]([url](https://github.com/BrianRigneyJ/Sample-SQL-Project))
+[Basic DSA in Java]([url](https://github.com/BrianRigneyJ/Basic-DSA-with-Java))
