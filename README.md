@@ -10,3 +10,5 @@ Here are some of my projects:
 [Sample SQL Database build and querying](https://github.com/BrianRigneyJ/Sample-SQL-Project)
 
 [Basic Data Structures and Algorithms in Java](https://github.com/BrianRigneyJ/Basic-DSA-with-Java)
+
+[Tic tac toe game in assembly language (LC-3)](https://github.com/BrianRigneyJ/Assembly-Language)
